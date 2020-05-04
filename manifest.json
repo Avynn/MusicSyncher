@@ -1,0 +1,11 @@
+{
+    "name" : "Streamer Music Syncher",
+    "version" : "0.1",
+    "description" : "A chrome addon that allows users to synch music with a streamer to work around intellectual property issues",
+    "permissions" : ["storage"],
+    "background" : {
+        "scripts": ["background.js"],
+        "presistent": false
+    },
+    "manifest_version" : 1
+}

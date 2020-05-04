@@ -1,0 +1,1 @@
+A chrome addon that allows users to synch music with a streamer to work around intellectual property issues
